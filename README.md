@@ -48,7 +48,7 @@ This project showcases how to build a resilient order processing system using th
 Clone the repository:
 ```bash
 git clone <repository-url>
-cd circuit-breaker-kiro
+cd circuit-breaker
 ```
 
 Build the project:
